@@ -1,3 +1,3 @@
 # I-love-my-city
-
-https://assignment-1-i-love-my-city.herokuapp.com/
+NodeJS Assignment 2
+https://assignment-2-i-love-my-city.herokuapp.com/pondy
